@@ -87,7 +87,7 @@ else:
 
 ## OUTPUT:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/b8c61c25-b9b8-4214-b940-7f109e56f36b)
 
 
 ## RESULT:
